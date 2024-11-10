@@ -1,0 +1,21 @@
+Number,Team Name,Points,Win,Draw,Lost,Average
+1,Man City,93,29, 6, 3,73
+2,Liverpool,92,28, 8, 2,68
+3,Chelsea,74,21,11, 6,43
+4,Tottenham,71,22, 5,11,29
+5,Arsenal,69,22, 3,13,13
+6,Man United,58,16,10,12, 0
+7,West Ham,56,16, 8,14, 9
+8,Leicester City,14,10,14,24, 3
+9,Brighton,51,18,12,15,-2
+10,Wolverhampton,51,15, 6,17,-5
+11,Newcastle,49,13,10,15,-18
+12,Crystal Palace,48,11,15,12, 4
+13,Brentford,46,13, 7,18,-8
+14,Aston Villa,45,13, 6,19,-2
+15,Southampton,40, 9,13,16,-24
+16,Everton,39,11, 6,21,-23
+17,Leeds United,38, 9,11,18,-37
+18,Burnley,35, 7,14,17,-19
+19,Watford,23, 6, 5,27,-43
+20,Norwich Ctiy,22, 5, 7,26,-61

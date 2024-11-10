@@ -1,0 +1,19 @@
+Number,Team Name,Points,Win,Draw,Lost,Average
+1,Bayern,71,21, 8, 5,54
+2,Dortmund,71,22, 5, 7,39
+3,RB Leipzig,66,20, 6, 8,23
+4,Union Berlin,62,18, 8, 8,13
+5,Freiburg,59,17, 8, 9, 7
+6,Leverkusen,50,14, 8,12, 8
+7,Frankfurt,50,13,11,10, 6
+8,Wolfsburg,49,13,10,11, 9
+9,Mainz,46,12,10,12,-1
+10,M'gladbach,43,11,10,13,-3
+11,Köln,42,10,12,12,-5
+12,Hoffenheim,36,10, 6,18,-9
+13,Bremen,36,10, 6,18,-13
+14,Bochum,35,10, 5,19,-32
+15,Augsburg,34, 9, 7,18,-21
+16,Stuttgart,33, 7,12,15,-12
+17,Schalke,31, 7,19,17,-36
+18,Hertha Berlin,29, 7, 8,19,-27
